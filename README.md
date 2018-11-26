@@ -10,7 +10,7 @@
 
 # To run and test this project you should have Cloudinary account.
 
-  // Modificaitions in server.js
+  // Modifications in server.js
   replace following with your Cloudinary account data
   
     CLOUD_NAME= cloud_name
