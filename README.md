@@ -1,6 +1,6 @@
-# special-fortnight
+## special-fortnight
 
-#Getting Started
+# Getting Started
 
   cd image-upload-with-react-using-cloudinary/client
   npm i && npm start
