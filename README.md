@@ -8,8 +8,7 @@
 
 ## To run and test this project you should have Cloudinary account.
 
-  // Modifications in server.js
-  replace following with your Cloudinary account data
+  ###### Modifications in server.js replace following with your Cloudinary account data
   
     CLOUD_NAME= cloud_name
     API_KEY= cloud_key
