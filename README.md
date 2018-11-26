@@ -1,14 +1,12 @@
-## special-fortnight
+# special-fortnight
 
-# Getting Started
+##### This application consists of server and client which is used to upload images to external source such as cloudinary
 
-  cd image-upload-with-react-using-cloudinary/client
-  npm i && npm start
-  // in new terminal
-  cd image-upload-with-react-using-cloudinary/server
-  node server.js
+## Getting Started
+  npm i && npm start in "client"                                                                                                 
+  node server.js in "server"
 
-# To run and test this project you should have Cloudinary account.
+## To run and test this project you should have Cloudinary account.
 
   // Modifications in server.js
   replace following with your Cloudinary account data
