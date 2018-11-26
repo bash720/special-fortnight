@@ -4,7 +4,7 @@
 
 ## Getting Started
   npm i && npm start in "client"                                                                                                 
-  node server.js in "server"
+  npm i && node server.js in "server"
 
 ## To run and test this project you should have Cloudinary account.
 
